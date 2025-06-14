@@ -76,7 +76,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 				
 				<td style='border: 1px solid ; text-align: center'><%=v.getPname() %></td>
 				
-				<td style='border: 1px solid ; text-align: center'>₹ <%=v.getPprice() %></td>
+				<td style='border: 1px solid ; text-align: center'>$ <%=v.getPprice() %></td>
 				
 				<td style='border: 1px solid ; text-align: center'><%=v.getPquantity() %></td>
 				

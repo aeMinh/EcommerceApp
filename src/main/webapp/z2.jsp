@@ -105,7 +105,7 @@ if (cookies[i].getName().equals("cart"))
 			</div>
 
 				<div class = "col-xxl-2 col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-2">
-				₹ <%=v.getPprice() %>
+				$ <%=v.getPprice() %>
 				</div>
 				
 				
@@ -123,7 +123,7 @@ if (cookies[i].getName().equals("cart"))
 		<%} %>
 		
 				
-		<div class = "tp"><h5>Total Price: ₹ <%=Total %> </h5></div>
+		<div class = "tp"><h5>Total Price: $ <%=Total %> </h5></div>
 	
 		
 		

@@ -122,7 +122,7 @@ for(order_details v : listd)
 				
 				<td style='border: 1px solid ; text-align: center'><%=v.getPname() %></td>
 				
-				<td style='border: 1px solid ; text-align: center'>₹ <%=v.getPprice() %></td>
+				<td style='border: 1px solid ; text-align: center'>$ <%=v.getPprice() %></td>
 				
 				<td style='border: 1px solid ; text-align: center'><%=v.getPquantity() %></td>
 				
@@ -138,7 +138,7 @@ for(order_details v : listd)
 		<td></td>
 		<td></td>
 		<td><h5>Total Price:</h5></td>
-		<td><h5 style='color: firebrick'>₹ <%= Total %></h5></td>
+		<td><h5 style='color: firebrick'>$ <%= Total %></h5></td>
 		<td></td>
 		<td></td>
 		

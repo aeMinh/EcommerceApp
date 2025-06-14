@@ -184,7 +184,7 @@ String Total = request.getParameter("Total");
 
 
 <h4><b class = "g ws">Amount Paid:</b></h4>
-<h2><input type ="text"  value= "₹ <%=Total %>" class="c" disabled selected required></h2>
+<h2><input type ="text"  value= "$ <%=Total %>" class="c" disabled selected required></h2>
 
 
 

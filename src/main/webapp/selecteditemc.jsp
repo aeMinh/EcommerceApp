@@ -75,7 +75,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 						
 								<tr>
 									<th>Price: </th>
-									<th>₹ <%=l.getPprice() %> </th>
+									<th>$ <%=l.getPprice() %> </th>
 								</tr>
 					
 								<tr>
@@ -98,7 +98,7 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 	<div class = "col-lg-6 col-md-6 col-sm-12 col-xs-12">
 	
 		<h2><%=  l.getPname()%></h2><br>
-		<h3> ₹ <%=  l.getPprice() %> </h3><br><%} %>
+		<h3> $ <%=  l.getPprice() %> </h3><br><%} %>
 		<p>Lorem ipsum dolor sit amet, consecte adipisicing elit, 
 		sed do eiusmll tempor incididunt ut labore et dolore magna 
 		aliqua. Ut enim ad mill veniam, quis nostrud exercitation 

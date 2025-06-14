@@ -35,10 +35,9 @@
 			<div class = "container" style="background-color: white">
 			<center>
 				<h2>Contact Info</h2>
-				<p>Address: Your Address Goes Here. </p>
-				<p>Phone/Fax: 0123456789</p>
-				<p>Email: demo@example.com</p>
-				<p>demo@example.com</p>
+				<p>Address: 54 Le Thanh Nghi, Bach Khoa, Ha Noi. </p>
+				<p>Phone/Fax: 0352465778</p>
+				<p>Email: TuanMinh3553@gmail.com</p>
 			</center>
 			</div>
 		</div>
@@ -49,7 +48,6 @@
 	</div>
 	</div>
 	<br>
-	<p>© 2022 Online Electronic Shopping Made By Swapnil Bamble.</p>
 </center>
 
 
