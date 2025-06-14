@@ -12,9 +12,7 @@
 			<div class = "container" style="background-color: white">
 			<center>
 				<h2>Online Electronic Store</h2>
-				<p>Lorem ipsum dolor sit amet consl adipisi 
-				elit, sed do eiusmod templ incididunt ut 
-				labore</p>
+				<p>Powering Your Digital Life</p>
 			</center>
 			</div>
 		</div>

@@ -38,14 +38,12 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 	</div>
 	<br>
 	<center>
-	<p>Online Ecommerce Project, consectetur adipisicing<br> 
-	elit, sed do eiusmod tempor incididunt ut labore <br>
-	et dolore magna aliqua. Ut enim ad minim veniam, <br>
-	quis nostrud exercitation ullamco laboris nisi ut <br>
-	aliquip ex ea comml consequat. Duis aute irure <br>
-	dolor in reprehenderit in voluptate velit esse <br>
-	cillum dolore eu fugiat nulla pariatur. Excepteur <br>
-	sint occaecat cupidatat non proident sunt in culpa</p>
+	<p>Online Electronic Store is your online electronics hub,<br>
+		offering top-tier gadgets and accessories.<br>
+		Discover the latest laptops, smartphones,<br>
+		and smart home devices—all vetted for quality.<br>
+		Enjoy fast shipping, expert support,<br>
+		and easy returns for complete peace of mind.</p>
 	<img src = "images/aboutus2.jpg" height=450px width = 1200px class= "imgh">
 <br>
 

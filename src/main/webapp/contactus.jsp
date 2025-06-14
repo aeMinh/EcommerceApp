@@ -80,10 +80,10 @@ body,h1,h2,h3,h4,h5,h6,.w3-wide {font-family: "Montserrat", sans-serif;}
 			<h4 class = "a ws"><b>Name : </b></h4>
             <h2><input type ="text"  name ="Name"  class = "c" required></h2>
             
-            <h4 class = "b ws"><b>Email Id : </b></h4>
+            <h4 class = "b ws"><b>Email : </b></h4>
             <h2><input type ="email"  name ="Email_Id" class = "c" required></h2>
             
-            <h4 class = "e ws"><b>Contact No. : </b></h4>
+            <h4 class = "e ws"><b>Phone Number : </b></h4>
             <h2><input type ="number"  name ="Contact_No" class = "c" required></h2>
             
             <h4 class = "d ws"><b>Message : </b></h4>
